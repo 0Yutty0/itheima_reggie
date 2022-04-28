@@ -20,8 +20,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/shoppingCart")
 public class ShoppingCartController {
-
-    @Resource
+    @Autowired
     private ShoppingCartService shoppingCartService;
 
 
