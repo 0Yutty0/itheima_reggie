@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c7770d7-2aec-4f69-8efb-c276bc76b0c0" name="Changes" comment="修改了@Autowired注解" />
+    <list default="true" id="0c7770d7-2aec-4f69-8efb-c276bc76b0c0" name="Changes" comment="基础部分" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +176,7 @@
       <workItem from="1651107833499" duration="445000" />
       <workItem from="1651108455113" duration="299000" />
       <workItem from="1651108914185" duration="132000" />
-      <workItem from="1651109800379" duration="3270000" />
+      <workItem from="1651109800379" duration="3693000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1651110510085</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651112171301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="基础部分">
+      <created>1651113904194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651113904194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +271,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="修改了@Resource注解" />
     <MESSAGE value="修改了@Autowired注解" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了@Autowired注解" />
+    <MESSAGE value="基础部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础部分" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
