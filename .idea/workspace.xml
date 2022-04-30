@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c7770d7-2aec-4f69-8efb-c276bc76b0c0" name="Changes" comment="基础部分" />
+    <list default="true" id="0c7770d7-2aec-4f69-8efb-c276bc76b0c0" name="Changes" comment="第二次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/front/page/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/front/page/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +180,8 @@
       <workItem from="1651107833499" duration="445000" />
       <workItem from="1651108455113" duration="299000" />
       <workItem from="1651108914185" duration="132000" />
-      <workItem from="1651109800379" duration="4294000" />
+      <workItem from="1651109800379" duration="5616000" />
+      <workItem from="1651312650375" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1651110510085</created>
@@ -213,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651114505012</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第二次提交">
+      <created>1651115185186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651115185186</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,11 +277,6 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="ea7e837d-b1d7-41e9-bb55-1640c668617d" value="TOOL_WINDOW" />
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -279,7 +286,8 @@
     <MESSAGE value="修改了@Resource注解" />
     <MESSAGE value="修改了@Autowired注解" />
     <MESSAGE value="基础部分" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础部分" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

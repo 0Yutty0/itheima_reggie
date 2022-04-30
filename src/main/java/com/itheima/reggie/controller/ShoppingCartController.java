@@ -22,8 +22,6 @@ import java.util.List;
 public class ShoppingCartController {
     @Autowired
     private ShoppingCartService shoppingCartService;
-
-
     /**
      * 添加购物车
      * @param shoppingCart
