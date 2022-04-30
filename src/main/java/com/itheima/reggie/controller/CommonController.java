@@ -74,7 +74,7 @@ public class CommonController {
             //输出流，通过输出流将文件写回浏览器
             ServletOutputStream outputStream = response.getOutputStream();
 
-            response.setContentType("image/jpg");
+            response.setContentType("image/jpeg");
 
             int len = 0;
             byte[] bytes = new byte[1024];
